@@ -8,35 +8,9 @@ redirect_from:
 
 I am a software engineer with over 10 years of experience in Java and cloud technologies. I earned my bachelor's degree in Computer Engineering from the University of Peradeniya, Sri Lanka. I am passionate about solving challenging problems and enjoy learning different technologies. Currently, I am exploring Python and machine learning, areas that deeply interest me. I am also actively seeking new career opportunities.
 
-### Professional Qualifications
+### Professional Certifications
 - [AWS Certified Solutions Architect - Associate (AWS SAA-C02)](https://www.credly.com/badges/8ad31d47-6807-4703-92a8-958d143fb262?source=linked_in_profile)
 - [Oracle Certified Professional, Java SE 6 Programmer (OCPJP 6)](https://www.credly.com/badges/c5679410-ef50-4413-a877-36f673139454?source=linked_in_profile)
-- [Introduction to Artificial Intelligence (2023)](https://www.linkedin.com/learning/certificates/6f0b491c7c8589ff092b41d2bc0fa0bdfb0ea4b06ffc1738db8124eef29884d9?u=173225324)
-- [Python for Non-Programmers](https://www.linkedin.com/learning/certificates/78d6d44f68eff3e3717c56f4f770b8923baa60ee516ed104bc9d95e47da8c2e6?u=173225324)
-- [Learning Docker Compose](https://www.linkedin.com/learning/certificates/38b0b7ad6b24118744dff64b97bdf1f3fd5560537e5da1b05d142339420b549d?u=173225324)
-- [Learning Docker](https://www.linkedin.com/learning/certificates/88c66b4c62681965b6348dd112220fff47f629fd29533cd892532d65ea9cdcac?u=173225324)
-- [SOLID Principles of Object Oriented Design and Architecture](https://www.udemy.com/certificate/UC-4c698db4-1515-4250-841d-0de464adfaa3/)
-- [Spring Framework In Easy Steps](https://www.udemy.com/certificate/UC-1124c770-7690-44f4-ab2d-c17b5c9a05ac/)
-- [Practical Java Unit Testing with JUnit 5](https://www.udemy.com/certificate/UC-ed0736a9-27c6-4c7d-9d55-c997297bb097/)
-- [Mockito: Next-Level Java Unit Testing](https://www.udemy.com/certificate/UC-a48af528-b4db-4471-8154-60f79144bcb0/)
-
-### Blogs
-- [Interesting Java Questions That Got Me Thinking](https://medium.com/@dharanie89/interesting-java-questions-that-got-me-thinking-d86ed157bc9e)
-
-### Technologies and Tools
-- **Programming Languages:** Java
-- **Frameworks:** Spring (Spring boot, Core, MVC, Security, AOP), Hibernate
-- **Web Technologies:** ReactJS, HTML, CSS
-- **Cloud Computing Platforms:** AWS (Lambda, EC2, ECS, SQS, SNS, API Gateway, S3, Cloudwatch)
-- **Database:** MySQL, Oracle, Janus graph, Pouch DB
-- **Unit Testing:** JUnit5, Mockito, Jest
-- **Database Management Tools:** Liquibase
-- **Source Control:** Git
-- **Build Tools:** Maven, Gradle
-- **Operating Systems:** Linux, MacOS
-- **Bug Tracking Tools:** Jira 
-- **Log Management Tools:** Graylog
-- **Other Tools:** Tomcat, Jenkins, Sentry, IntelliJ IDEA
   
 ### Project Experience
 
@@ -89,6 +63,34 @@ Croatia.*
 - Software Engineer, *Intervest Software Technologies, Jan 2015 - Mar 2018*
 - Associate Software Engineer, *Intervest Software Technologies, July - Dec 2014*
 
+### Technologies and Tools
+- **Programming Languages:** Java
+- **Frameworks:** Spring (Spring boot, Core, MVC, Security, AOP), Hibernate
+- **Web Technologies:** ReactJS, HTML, CSS
+- **Cloud Computing Platforms:** AWS (Lambda, EC2, ECS, SQS, SNS, API Gateway, S3, Cloudwatch)
+- **Database:** MySQL, Oracle, Janus graph, Pouch DB
+- **Unit Testing:** JUnit5, Mockito, Jest
+- **Database Management Tools:** Liquibase
+- **Source Control:** Git
+- **Build Tools:** Maven, Gradle
+- **Operating Systems:** Linux, MacOS
+- **Bug Tracking Tools:** Jira 
+- **Log Management Tools:** Graylog
+- **Other Tools:** Tomcat, Jenkins, Sentry, IntelliJ IDEA
+
+### Blog Posts
+- [Interesting Java Questions That Got Me Thinking](https://medium.com/@dharanie89/interesting-java-questions-that-got-me-thinking-d86ed157bc9e)
+
 ### Awards & Honors
 - Runner-up (Doubles category) in the Mercantile Table Tennis Tournament conducted by the Mercantile
 Table Tennis Association, Sri Lanka 2019.
+
+### MOOCS
+- [Introduction to Artificial Intelligence (2023)](https://www.linkedin.com/learning/certificates/6f0b491c7c8589ff092b41d2bc0fa0bdfb0ea4b06ffc1738db8124eef29884d9?u=173225324)
+- [Python for Non-Programmers](https://www.linkedin.com/learning/certificates/78d6d44f68eff3e3717c56f4f770b8923baa60ee516ed104bc9d95e47da8c2e6?u=173225324)
+- [Learning Docker Compose](https://www.linkedin.com/learning/certificates/38b0b7ad6b24118744dff64b97bdf1f3fd5560537e5da1b05d142339420b549d?u=173225324)
+- [Learning Docker](https://www.linkedin.com/learning/certificates/88c66b4c62681965b6348dd112220fff47f629fd29533cd892532d65ea9cdcac?u=173225324)
+- [SOLID Principles of Object Oriented Design and Architecture](https://www.udemy.com/certificate/UC-4c698db4-1515-4250-841d-0de464adfaa3/)
+- [Spring Framework In Easy Steps](https://www.udemy.com/certificate/UC-1124c770-7690-44f4-ab2d-c17b5c9a05ac/)
+- [Practical Java Unit Testing with JUnit 5](https://www.udemy.com/certificate/UC-ed0736a9-27c6-4c7d-9d55-c997297bb097/)
+- [Mockito: Next-Level Java Unit Testing](https://www.udemy.com/certificate/UC-a48af528-b4db-4471-8154-60f79144bcb0/)
