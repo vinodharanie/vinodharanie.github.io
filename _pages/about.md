@@ -80,6 +80,7 @@ Croatia.*
 
 ### Blog Posts
 - [Interesting Java Questions That Got Me Thinking](https://medium.com/@dharanie89/interesting-java-questions-that-got-me-thinking-d86ed157bc9e)
+- [All I know about Docker](https://medium.com/@dharanie89/all-i-know-about-docker-eccfced08507)
 
 ### Awards & Honors
 - Runner-up (Doubles category) in the Mercantile Table Tennis Tournament conducted by the Mercantile
