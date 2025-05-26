@@ -20,7 +20,7 @@ I am a software engineer with over 10 years of experience in Java and cloud tech
   availability across platforms.*
 
 - **Kiosk Food Ordering System** : 
-  *Cake’s Kiosk system helps customers place orders and make payments without needing the assistance of a server or cashier and is used by over 3,500 merchants
+  *Cake’s Kiosk system helps customers place orders and make payments without needing the assistance of a server or cashier, and is used by over 3,500 merchants
   in the United States.*
 
 - **Kitchen Display System (KDS)** : *The Kitchen Display System provides real-time updates on
@@ -41,7 +41,7 @@ Croatia.*
   market.*
 
 - **Embla.no Genealogy Website**: *Embla is a provider of website-based Norwegian family history
-  and genealogy programs that are available for purchase by users.*
+  and genealogy programs that users can purchase.*
 
 ### Responsibilities
 - Develop both back-end and front-end components.
@@ -50,12 +50,12 @@ Croatia.*
 - Mentor and guide junior developers, fostering their growth and improving team efficiency.
 - Conducting code reviews.
 - Debugging and fixing bugs in existing systems.
-- Serve as Scrum Master on a rotating basis for an eight-person team, facilitating agile processes and ensuring smooth project delivery.
+- Serve as Scrum Master, rotating for an eight-person team, facilitating agile processes and ensuring smooth project delivery.
 - Actively participate in architecture review board meetings, providing insights on system architecture and best practices.
 - Work closely with clients to ensure software meets business requirements and specifications.
 
 ### Professional Experience
-- Senior Software Developer (L3), *FreeBalance Inc, Feb 2025 - Present*
+- Senior Software Engineer (L4), *FreeBalance Inc, Feb 2025 - Present*
 - Staff Software Engineer, *CAKE, A Mad Mobile Company, July - Nov 2024*
 - Associate Technical Lead, *CAKE, A Mad Mobile Company, Apr 2023 - July 2024*
 - Senior Software Engineer, *CAKE, A Mad Mobile Company, Apr 2022 - Mar 2023*
@@ -66,7 +66,7 @@ Croatia.*
 
 ### Technologies and Tools
 - **Programming Languages:** Java
-- **Frameworks:** Spring (Spring boot, Core, MVC, Security, AOP), Hibernate
+- **Frameworks:** Spring (Spring Boot, Core, MVC, Security, AOP), Hibernate
 - **Web Technologies:** ReactJS, HTML, CSS
 - **Cloud Computing Platforms:** AWS (Lambda, EC2, ECS, SQS, SNS, API Gateway, S3, Cloudwatch)
 - **Database:** MySQL, Oracle, Janus graph, Pouch DB
