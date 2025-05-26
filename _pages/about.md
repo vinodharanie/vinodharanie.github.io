@@ -55,6 +55,7 @@ Croatia.*
 - Work closely with clients to ensure software meets business requirements and specifications.
 
 ### Professional Experience
+- Senior Software Developer (L3), *FreeBalance Inc, Feb 2025 - Present*
 - Staff Software Engineer, *CAKE, A Mad Mobile Company, July - Nov 2024*
 - Associate Technical Lead, *CAKE, A Mad Mobile Company, Apr 2023 - July 2024*
 - Senior Software Engineer, *CAKE, A Mad Mobile Company, Apr 2022 - Mar 2023*
