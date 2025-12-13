@@ -6,7 +6,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a software engineer with over 10 years of experience in Java and cloud technologies. I earned my bachelor's degree in Computer Engineering from the University of Peradeniya, Sri Lanka. I am passionate about solving challenging problems and enjoy learning different technologies. Currently, I am exploring Python and machine learning, areas that deeply interest me. I am also actively seeking new career opportunities.
+I am a seasoned Software Engineer with over 10 years of experience specializing in Java and cloud technologies. I hold a Bachelor’s degree in Computer Engineering from the University of Peradeniya, Sri Lanka. I am passionate about solving complex technical challenges and continuously expanding my skill set across emerging technologies. Currently, I am exploring Python and machine learning, areas that strongly align with my professional interests and long-term career goals. I am actively seeking new career opportunities in the United States and hold a U.S. Green Card.
 
 ### Professional Certifications
 - [AWS Certified Solutions Architect - Associate (AWS SAA-C02)](https://www.credly.com/badges/8ad31d47-6807-4703-92a8-958d143fb262?source=linked_in_profile)
