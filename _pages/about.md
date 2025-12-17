@@ -5,8 +5,7 @@ redirect_from:
 - /about/
 - /about.html
 ---
-
-I am a seasoned Software Engineer with over 10 years of experience specializing in Java and cloud technologies. I hold a Bachelor’s degree in Computer Engineering from the University of Peradeniya, Sri Lanka. I am passionate about solving complex technical challenges and continuously expanding my skill set across emerging technologies. Currently, I am exploring Python and machine learning, areas that strongly align with my professional interests and long-term career goals. I am actively seeking new career opportunities in the United States and hold a U.S. Green Card.
+Senior Backend Engineer with 10+ years of experience designing and building scalable Java and Spring Boot microservices for enterprise and platforms. Strong expertise in AWS cloud services, distributed systems, and high-availability backend architectures. Proven ability to optimize performance, reduce infrastructure costs, and lead cross-functional teams to deliver reliable, production-grade systems. I am actively seeking new career opportunities in the United States and hold a U.S. Green Card.
 
 ### Professional Certifications
 - [AWS Certified Solutions Architect - Associate (AWS SAA-C02)](https://www.credly.com/badges/8ad31d47-6807-4703-92a8-958d143fb262?source=linked_in_profile)
