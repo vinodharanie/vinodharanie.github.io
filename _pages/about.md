@@ -5,7 +5,7 @@ redirect_from:
 - /about/
 - /about.html
 ---
-Senior Backend Engineer with 10+ years of experience designing and building scalable Java and Spring Boot microservices for enterprise and platforms. Strong expertise in AWS cloud services, distributed systems, and high-availability backend architectures. Proven ability to optimize performance, reduce infrastructure costs, and lead cross-functional teams to deliver reliable, production-grade systems. I am actively seeking new career opportunities in the United States and hold a U.S. Green Card.
+Senior Backend Engineer with 10+ years of experience designing and building scalable Java and Spring Boot microservices for enterprise and platforms. Strong expertise in AWS cloud services, distributed systems, and high-availability backend architectures. Proven ability to optimize performance, reduce infrastructure costs, and lead cross-functional teams to deliver reliable, production-grade systems. I am actively seeking new career opportunities in the United States.
 
 ### Professional Certifications
 - [AWS Certified Solutions Architect - Associate (AWS SAA-C02)](https://www.credly.com/badges/8ad31d47-6807-4703-92a8-958d143fb262?source=linked_in_profile)
