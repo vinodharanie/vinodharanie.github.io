@@ -5,7 +5,9 @@ redirect_from:
 - /about/
 - /about.html
 ---
-Senior Backend Engineer with 10+ years of experience designing and building scalable Java and Spring Boot microservices for enterprise and platforms. Strong expertise in AWS cloud services, distributed systems, and high-availability backend architectures. Proven ability to optimize performance, reduce infrastructure costs, and lead cross-functional teams to deliver reliable, production-grade systems. I am actively seeking new career opportunities in the United States.
+Senior Backend Software Engineer with 10+ years of experience designing and building scalable distributed systems using Java and cloud technologies. Strong expertise in microservices architectures,
+event-driven systems, and AWS infrastructure. Proven ability to deliver reliable backend services and improve system performance in large-scale production environments. Currently exploring practical
+applications of Generative AI and LLM APIs to build AI-enabled backend systems.
 
 ### Professional Certifications
 - [AWS Certified Solutions Architect - Associate (AWS SAA-C02)](https://www.credly.com/badges/8ad31d47-6807-4703-92a8-958d143fb262?source=linked_in_profile)
@@ -54,7 +56,7 @@ Croatia.*
 - Work closely with clients to ensure software meets business requirements and specifications.
 
 ### Professional Experience
-- Senior Software Engineer (L4), *FreeBalance Inc, Feb 2025 - Present*
+- Senior Software Engineer, *FreeBalance Inc, Feb 2025 - Dec 2025*
 - Staff Software Engineer, *CAKE, A Mad Mobile Company, July - Nov 2024*
 - Associate Technical Lead, *CAKE, A Mad Mobile Company, Apr 2023 - July 2024*
 - Senior Software Engineer, *CAKE, A Mad Mobile Company, Apr 2022 - Mar 2023*
@@ -64,19 +66,23 @@ Croatia.*
 - Associate Software Engineer, *Intervest Software Technologies, July - Dec 2014*
 
 ### Technologies and Tools
-- **Programming Languages:** Java
-- **Frameworks:** Spring (Spring Boot, Core, MVC, Security, AOP), Hibernate
-- **Web Technologies:** ReactJS, HTML, CSS
-- **Cloud Computing Platforms:** AWS (Lambda, EC2, ECS, SQS, SNS, API Gateway, S3, Cloudwatch)
-- **Database:** MySQL, Oracle, Janus graph, Pouch DB
-- **Unit Testing:** JUnit5, Mockito, Jest
-- **Database Management Tools:** Liquibase
-- **Source Control:** Git
-- **Build Tools:** Maven, Gradle
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring Framework, Hibernate, RESTful APIs
+- **Frondend:** ReactJS (Exposed), HTML, CSS, JavaScript
+- **Cloud Platforms:** AWS (ECS, EC2, SQS, SNS, S3, Lambda, API Gateway, CloudWatch)
+- **Databases:** MySQL, Oracle, PostgreSQL, Janus graph
+- **Messaging:** Kafka, AWS SQS
+- **DevOps:** Maven, Git, Jenkins, Liquibase
+- **Architecture:** Microservices, Event-driven Architecture, Distributed Systems
+- **Testing:** JUnit, Mockito
+- **Practices:** Agile/Scrum, System Design, SOLID Principles, Design Patterns
+- **AI \& Emerging Tech:** Generative AI concepts, LLM APIs, Prompt Engineering, AI-assisted development tools
 - **Operating Systems:** Linux, MacOS
-- **Bug Tracking Tools:** Jira 
-- **Log Management Tools:** Graylog
-- **Other Tools:** Tomcat, Jenkins, Sentry, IntelliJ IDEA
+- **Other Tools:** Tomcat, Jenkins, Sentry, IntelliJ IDEA, Graylog, Jira
+
+### AI Experiment Projects
+- Built a small backend service integrating an LLM API to generate automated customer responses.
+- Developed a prototype AI assistant to summarize support tickets using REST APIs.
 
 ### Blog Posts
 - [Interesting Java Questions That Got Me Thinking](https://medium.com/@dharanie89/interesting-java-questions-that-got-me-thinking-d86ed157bc9e)
@@ -87,6 +93,7 @@ Croatia.*
 Table Tennis Association, Sri Lanka 2019.
 
 ### MOOCS
+- [From Java to AI: The Python-Free Guide to Large Language Models](https://www.javabrains.io/certificates/s5bguxqc2q)
 - [Introduction to Artificial Intelligence (2023)](https://www.linkedin.com/learning/certificates/6f0b491c7c8589ff092b41d2bc0fa0bdfb0ea4b06ffc1738db8124eef29884d9?u=173225324)
 - [Python for Non-Programmers](https://www.linkedin.com/learning/certificates/78d6d44f68eff3e3717c56f4f770b8923baa60ee516ed104bc9d95e47da8c2e6?u=173225324)
 - [Learning Docker Compose](https://www.linkedin.com/learning/certificates/38b0b7ad6b24118744dff64b97bdf1f3fd5560537e5da1b05d142339420b549d?u=173225324)
