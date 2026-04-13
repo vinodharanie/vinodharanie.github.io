@@ -56,6 +56,7 @@ Croatia.*
 - Work closely with clients to ensure software meets business requirements and specifications.
 
 ### Professional Experience
+- Senior Software Engineer, *Tango Analytics, Apr 2026 - Current*
 - Senior Software Engineer, *FreeBalance Inc, Feb 2025 - Dec 2025*
 - Staff Software Engineer, *CAKE, A Mad Mobile Company, July - Nov 2024*
 - Associate Technical Lead, *CAKE, A Mad Mobile Company, Apr 2023 - July 2024*
